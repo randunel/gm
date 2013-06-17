@@ -1,4 +1,4 @@
-{ "name": "gm"
+{ "name": "gm-composite"
 , "description": "GraphicsMagick for node.js"
 , "version": "1.9.2"
 , "author": "Aaron Heckmann <aaron.heckmann+github@gmail.com>"
